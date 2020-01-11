@@ -1,0 +1,5 @@
+{
+  "component-a": "./packages/component-a/index.js",
+  "component-b": "./packages/component-b/index.js",
+  "index": "./packages/index.js"
+}
